@@ -1,6 +1,8 @@
 Exercice 4 :
 
-    - Modifier le code fourni pour que la boucle for s'éxécute 5 fois en incrémentant i de 2 à chaque itération
+    - Modifier le code fourni pour que la
+     boucle for s'éxécute 5 fois en incrémentant 
+     i de 2 à chaque itération
 
 
 Théorie :
